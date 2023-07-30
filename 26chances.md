@@ -13,7 +13,11 @@ This project aims to experiment with different formats, styles, and topics, whil
 ### C
 ### D
 ### E
-### F
+
+### **F**ungal Fungibility
+
+Mind-altering fungal outbreak within an isolated community, with only the remains discovered. Written in academic paper format, including realistic biology and biochemistry. Request for further funding, to analyse found potentially live material.
+
 ### G
 ### H
 ### I
@@ -25,7 +29,11 @@ This project aims to experiment with different formats, styles, and topics, whil
 ### O
 ### P
 ### Q
-### R
+
+### **R**ue The Vote
+
+Rise of an unsavoury political party (cult?), as told through newspaper cuttings over time. Whilst left and right wing papers may originally differ, these opinions will converge as the party outstrips both. 
+
 ### S
 ### T
 ### U

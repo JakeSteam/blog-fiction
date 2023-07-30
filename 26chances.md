@@ -4,13 +4,17 @@ permalink: /26chances/
 layout: page
 ---
 
-This project aims to experiment with different formats, styles, and topics, whilst remaining guided by an overall theme. 
+This project aims to familiarise myself with fiction writing by utilising different formats, styles, and topics, whilst remaining guided by an overall theme: The demise of all involved, one way or another.
 
-*22 unstarted, 4 planned, 0 started, 0 finished, 0 published.*
+*20 unstarted, 6 planned, 0 started, 0 finished, 0 published.*
 
 ### A
 ### B
-### C
+
+### **C**onflict
+
+A look inside the Google Calendar of an engineer within a startup aims to grow whilst suffering funding issues, with a few preventable events impacting team morale, relationships, and ability to work. No startup survives a lack of funding and a lack of motivation. 
+
 ### D
 ### E
 
@@ -24,7 +28,11 @@ Mind-altering fungal outbreak within an isolated community, with only the remain
 ### J
 ### K
 ### L
-### M
+
+### **M**utual
+
+A series of unfortunate misunderstandings during military drills result in mutually assured destruction finally occurring. Story is told entirely via dialogue in nuclear submarines, early warning systems, etc. Only the Western side of the story is told, assumptions based on incomplete information is the cause of the problem as well as the way it is told.
+
 ### N
 ### O
 

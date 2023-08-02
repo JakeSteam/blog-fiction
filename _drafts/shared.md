@@ -8,21 +8,23 @@ tags:
     - Medical
 ---
 
-summary / teaser
+Epidextrin is the latest meditative sleep aid from Eleng Medicines. Research shows that by connecting more deeply with their subconscious, patients can experience longer, healthier, and more refreshing sleep. With no hallucinogenic effects, Epidextrin strengthens the patient's subconscious thoughts whilst asleep, and is currently undergoing final checks before FDA approval. Ask your doctor today whether Epidextrin is right for you.
 
 ## Notes
 
 ### Appendix 1: Study
 
-This study is conducted by researchers the University of Surrey, and receives partial funding from Eleng Medicines and Xhion Industries. 
+This 4-week study study is conducted by researchers the University of Surrey, and receives partial funding from Eleng Medicines and Xhion Industries. 
 
-This study aims to discover the effects of Epidextrin upon sleep quality and quantity, with special focus paid to the dreams participants encounter. The overall goal is to determine whether Epidextrin is suitable for prescription as a sleep aid, and whether it is suitable for prescription as a recreational dream enhancer.
+The study aims to discover the effects of Epidextrin upon sleep quality and quantity, with special focus paid to the dreams participants encounter. The overall goal is to determine whether Epidextrin is suitable for prescription as a sleep aid, and whether it is suitable for prescription as a recreational dream enhancer.
 
-Approximately 4-5 candidates will initially receive 30mg doses of Epidextrin twice a day, raising up to 100mg at the researcher's discretion. Whilst this compound is not expected to cause any health complications, there is currently inconclusive evidence of a strengthening impact on the subconscious, particularly during sleep. Medical personnel will be on hand 24/7 during this study in case of any complications.
+Approximately 4-5 participants will initially receive 30mg doses of Epidextrin twice a day, raising up to 100mg at the researcher's discretion. Whilst this compound is not expected to cause any health complications, there is currently inconclusive evidence of a strengthening impact on the subconscious, particularly during sleep. Medical personnel will be on hand 24/7 during this study in case of any complications.
 
-If selected, candidates will spend 6 nights per week (Sun - Fri night) within the study dormitory. They will be administered 30mg of Epidextrin before sleep and immediately before their morning daily interview. Throughout the designated sleeping hours (23:00 - 08:00) all candidates will be secured in isolated rooms, with a sleep supporting frequency of 88Khz played consistently to encourage both dream presence and memory persistence.
+If selected, participants will spend 6 nights per week (Sun - Fri night) within the study dormitory for the duration of the 4-week study period. They will be administered 30mg of Epidextrin before sleep and immediately before their morning daily interview. Throughout the designated sleeping hours (23:00 - 08:00) all candidates will be secured in isolated rooms, with a sleep supporting frequency of 88Khz played consistently to encourage both dream presence and memory persistence. During the unstudied night (Saturday) all participants will be accommodated in a hotel, to allow researchers to collate records and avoid participants settling into a passive routine.
 
 The morning daily interview will consist of a discussion of the subject's dreams from the previous night, followed by a comparison to their observed sleep behaviour. Whilst not under observation or in an interview, candidates will continue to attend their jobs, hobbies, and other engagements. 
+
+Monitoring and interviews will be conducted by the authors of this paper, referred to as Researcher X & Y.
 
 ### Appendix 2: Subjects
 
@@ -32,47 +34,90 @@ To adhere to GDPR requirements, the 9 valid candidates have been anonymised usin
 
 Detailed rejection reasons and motivations for final selections unfortunately cannot be shared publicly, however any researchers attempting a similar study should use their academic email to contact this study's authors for further information.
 
-**Candidate A** (Selected)
+#### **Candidate A** (Selected)
 
-Candidate A is a 31-year-old office worker. They applied for the survey primarily to support their partner (Candidate B), whom they typically share a bed with.
+Candidate A is a 31-year-old office worker. They applied for the survey primarily to support their long term partner (Candidate B), whom they occasionally ("maybe one night in 3") share a bed with.
 
 The candidate has no history of any mental aberrations (sleep related or otherwise), and reports typically sleeping for 7 hours without any disturbances.
 
-**Candidate B** (Selected)
+#### **Candidate B** (Selected)
 
-Candidate B is a 28-year-old freelance artist. They applied for the survey for personal spiritual purposes, to "way to help aline [sic] my inner self". They typically share a bed with their partner (Candidate A).
+Candidate B is a 28-year-old freelance artist. They applied for the survey for personal spiritual purposes, as a "way to help aline [sic] my inner self". They occasionally ("once every week or two") share a bed with their partner (Candidate A), but otherwise sleep alone
 
 The candidate has no history of mental health problems, however reports often feeling "disconnected" and "space out" for several minutes during a day (this symptom has been corroborated by Candidate A). They report experiencing both lucid dreaming and sleep paralysis, however not within the last 18 months.
 
-**Candidate C** (Selected)
+#### **Candidate C** (Selected)
 
 Candidate C is a 21-year-old student. They applied for the survey primarily for the financial compensation, and state an interest in their subconscious mind's processes.
 
 The candidate has a history of minor mental health problems, with depression and disassociation occurring relatively regularly within their medical history. Despite this, they are currently an acceptably low risk candidate due to their measurably stable composition during the interview. They report sleeping for 7-8 hours per night, typically alone, with no disturbances besides external stimuli.    
 
-**Candidate D** (Selected)
+#### **Candidate D** (Selected)
 
 Candidate D is a 26-year-old athlete. They applied for the survey to improve their mental and physical health. 
 
 The candidate reports a stable sleep schedule of 6-7 hours per night. This candidate did report minor (medicated) issues with depression during teenage years, with no recent relapses.
 
-**Candidate E** (Rejected)
+#### **Candidate E** (Rejected)
 
-**Candidate F** (Rejected)
+#### **Candidate F** (Rejected)
 
-**Candidate G** (Rejected)
+#### **Candidate G** (Rejected)
 
-**Candidate H** (Rejected)
+#### **Candidate H** (Rejected)
 
-**Candidate I** (Rejected)
+#### **Candidate I** (Rejected)
 
-## Lab notes 
+## Interviews
+
+As described in the study's methodology, candidates were interviewed shortly after waking each morning. Transcripts here are not complete, and only contain sections relevant to this study. Additionally, 
+
+Please note that researcher notes are informal, may be off-topic, and must be removed before external distribution. 
 
 ### Week 1, Monday
 
-Write-up of Sunday night's behaviour reports, and the participant's reported dreams.
+* Dreams are as disparate as expected, just benchmarking.
 
-* Typical disparate dreams, as you would expect
+#### Participant A
+
+X: Good morning, A.
+A: Hey!
+X: Sleep well?
+A: Yeah great thanks, those are memory foam mattresses right? We were going to get one, but B is on the fence.
+X: Great. Please tell me about your dreams last night.
+A: Right, of course. I had 2. You want both?
+X: Yes please.
+A: Okay, first one. I was on this beach, except it kind of had a border to it in the water? Like, a solid barrier, like The Truman Show except way more visible. Anyway, I was standing in the middle of the beach trying to work out how far away this wall is, but I kept losing track since the sand wasn't- I dunno, wasn't flat? That's it, I kept trying then it ended.
+X: Thank you. And the 2nd dream?
+A: Does it mean anything? Something about hurdles in life maybe?
+X: Dreams are just your subconscious shuffling ideas around, I wouldn't recommend reading too deeply into them. The 2nd dream?
+A: Alright, sure. Second dream B and I were up at B's parent's house, over in the countryside, and we were just sitting around - sorry, we as in me, B, both parents - talking about golf. I don't even play golf, but I totally knew what we were discussing somehow. This went on for a bit, then everyone went to sleep in their chairs. The end.
+X: Great, thank you. Anything else you'd like to tell me about last night?
+A: Nope, I slept well, thanks.
+
+#### Participant B
+
+X: Good morning, B.
+B: Morning.
+X: Sleep well?
+B: It was OK, that ambient sound was very cool, really helped me relax.
+X: I'm glad. Did you manage to dream last night?
+B: I think so? I usually dream these totally abstract landscapes or cityscapes, but this one was even vaguer than usual. I was this kind of floating... blob of consciousness? There were others floating near me too, but it was just an innate sense of them, I couldn't see or sense them in any tangible way. It was like when you close your eyes, and you see areas of almost colour flowing. It was peaceful.
+X: Perfect, thank you. 
+B: Do you think I was connecting to someone? Something?
+X: It's impossible for me to say, it's your dream.
+B: That's true, thank you.
+
+#### Notes
+
+X: All 4 participants seemed pretty upbeat, and who can blame them, they're getting paid to dream. Bit easier than postgrad work, right? 
+Y: Sure, I guess. 
+X: You guess? You saw the tapes, A is pretty sure they've found an infinite money hack, and B probably feels about the same.
+Y: Yeah. I don't know, I couldn't do it. Having a stranger watching you sleep all night, it's not natural.
+X: Natural? They're pumped up on Epi, if they knew the street value of that stuff they'd probably try and sell their blood to China.
+Y: Why China?
+X: You know where the money comes from, don't act innocent. We're closing our eyes and opening our hands to get our doctorates, be honest to yourself.
+Y: Whatever. I'm here for the science.
 
 ### Week 1, Tuesday
 
@@ -94,25 +139,6 @@ Write-up of Sunday night's behaviour reports, and the participant's reported dre
 
 * A & B lose alignment, A & D somewhat alignment
 
-## Overall story beats
+### Week 1, Sunday
 
-* Dreams coalesce with a shared stranger in the background. This stranger becomes more in the foreground, as it progresses we discover every candidate has a depressive background. 
-* This depression relapses. Candidate C reports it primarily, with D intermittently. A & B fall together.
-* Why is there a stranger in dreams? This is a **shared subsubsubconscious**. Suicide and depression are an evolutionary requirement to avoid overpopulation.
-* The solution to overpopulation is to spread this realisation via the chemical itself, and of course take the "required actions" as an individual once your usefulness is fulfilled.
-
-## Pacing 
-
-* Week 1: Typical reports, slight alignment
-* Week 2: All fall into step
-* Week 3: Shared symptoms, the dark man
-* Week 4: He comes closer, he is becoming a problem
-* Week 5: He is here. He is impacting. Candidates request higher doses?
-* Week 6: Candidates begin dropping out due to the fear, we keep one of the couple and one of the remaining.
-* Week 7: The possessions begin. Changes in personality, in sleep habits, in the world. The dreams have monologues with speeches about how "he" is the basis of humankind, how this is not what he intended, how it is all wrong.
-* Week 8: The researcher succumbs. Too much exposure is fatal. Final notes aren't entirely sane.
-
-## Constraints
-
-* No physical descriptions (of physical characters)
-* No informal language, except in quotes
+* Researcher notes

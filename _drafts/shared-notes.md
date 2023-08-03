@@ -1,9 +1,13 @@
 ## Participants
 
-A: Office worker. Follows authority, likes process, logic, science.
-B: Artist. Creative, spiritual, willing to try things.
-C: Student. Reclusive, quiet, private. Scared.
-D: Athlete. Extrovert, competitive, tries to be one step ahead of all.
+A: Office worker 31. Follows authority, likes process, logic, science.
+    - Basically use my own voice
+B: Artist 28. Creative, spiritual, willing to try things.
+    - Similar to me, but more empathy, creativity
+C: Student 21. Reclusive, quiet, private. Scared.
+    - Contrast to me, stereotypical programmer conversational skills
+D: Athlete 26. Extrovert, competitive, tries to be one step ahead of all.
+    - Loud. Think "sales". 
 
 ## Researchers
 
@@ -17,9 +21,15 @@ Y: Empathy. These are humans we're experimenting on, this really isn't ethical.
 * Why is there a stranger in dreams? This is a **shared subsubsubconscious**. Suicide and depression are an evolutionary requirement to avoid overpopulation.
 * The solution to overpopulation is to spread this realisation via the chemical itself, and of course take the "required actions" as an individual once your usefulness is fulfilled.
 
+## Subplots
+
+* X & Y moral conflict.
+* B & D mental affair?
+* A & Y mental affair, X calling out?
+
 ## Pacing 
 
-* Week 1: Typical reports, slight alignment
+* Week 1: Typical reports, alignment
 * Week 2: Shared symptoms, the dark man. He is here. He is impacting. Candidates request higher doses?
 * Week 3: Candidates begin dropping out due to the fear, we keep one of the couple and one of the remaining.
 * Week 4: The possessions begin. Changes in personality, in sleep habits, in the world. The dreams have monologues with speeches about how "he" is the basis of humankind, how this is not what he intended, how it is all wrong. The researcher succumbs. Too much exposure is fatal. Final notes aren't entirely sane.
@@ -28,3 +38,11 @@ Y: Empathy. These are humans we're experimenting on, this really isn't ethical.
 
 * No physical descriptions (of physical characters)
 * No informal language, except in quotes
+
+## Misc ideas
+
+* X sees the alignment as just responses to inputs. The subjects are turing complete, inputs (chemical / audio / conversation), therefore similar outputs is expected. 
+* Y sees danger, that this is human experimentation. What about the Japanese and Nazi experiments? Well, these are voluntary. But what about drug addiction? Do no harm?
+
+Correct formatting can be find & replaced later:
+<br>*X*: Hello

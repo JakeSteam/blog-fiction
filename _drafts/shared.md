@@ -93,7 +93,7 @@ Please note that the researcher notes at the end of each day's interviews are in
 * X: Well, the results will help determine whether Epidextrin can be brought to market, if it has the desired effects then it will have significant quality of life improvements for many.
 * A: Sure, yeah, I get why you're doing the study. But why so much?
 * X: It's actually quite hard to find people able to spend every night either here or the hotel for nearly a month. That, plus all the medical exclusions, mean it's a pretty fair price.
-* A: Alright if you say so, feels like I'm getting paid for two days of work per day this month! The upfront payment was * great too, thanks for that. 
+* A: Alright if you say so, feels like I'm getting paid for two days of work per day this month! The upfront payment was great too, thanks for that. 
 * X: No problem, see you tonight.
 
 #### Participant B
@@ -126,17 +126,17 @@ Please note that the researcher notes at the end of each day's interviews are in
 * X: Hello, D.
 * D: Hey hey X, morning.
 * X: Sleep well?
-* D: Yeah thank you, it was really nice having such a distraction free room y'know? That speaker was a bit annoying at first, but I think it helped once I adjusted.
+* D: Yeah thank you, it was really nice having such a distraction-free room y'know? That speaker was a bit annoying at first, but I think it helped once I adjusted.
 * X: Great. Did you have any dreams?
 * D: You're going to analyse them right? Is there a right answer?
 * X: I wouldn't say analyse. I'd say collating, but no, there is definitely no right answer besides an honest answer.
 * D: I understand, what happens if I show no changes? If my dreams are unchanged throughout?
-* X: A lack of change isn't a lack of result. If that happens, it will help determine how widely applicable Epidextrin is. * Both affected and unaffected individuals may be invited back for future studies.
+* X: A lack of change isn't a lack of result. If that happens, it will help determine how widely applicable Epidextrin is. Both affected and unaffected individuals may be invited back for future studies.
 * D: Very clever, presumably the intention is to disincentivise pretending it had an effect? I know you can't confirm or deny, don't worry. So, my dreams. First dream was probably the Freudian gold standard, I was back at home, as a teenager, watching TV with my Dad. We haven't spoken in a few years, but it's a pretty healthy relationship I'd say. It was some sort of sports TV, and the dream just continued with us peacefully watching together for maybe 10 minutes. Nothing else happened.
 * X: That's perfect, thank you. Anything else you'd like to add?
 * D: Nope, see you tomorrow Doc.
 
-#### Notes
+#### Research Notes
 
 * X: All 4 participants seemed pretty upbeat, and who can blame them, they're getting paid to dream. Bit easier than postgrad work, right? 
 * Y: Sure, I guess. 
@@ -149,11 +149,53 @@ Please note that the researcher notes at the end of each day's interviews are in
 
 ### Tuesday
 
-* Again, typical disparate dreams
+* Again, typical disparate dreams, some A&B alignment.
+
+#### Participant A
+
+* Y: Hello A.
+* A: Hello!
+* Y: How'd you sleep last night?
+* A: Yeah, really well, thank you. I was telling your colleague yesterday about how nice the mattress here is, it seems to have got even softer since last night? Maybe I was just more tired.
+* Y: Maybe. I'm glad you're sleeping well, do you have any dreams you could tell me about?
+* A: For sure. It was kinda similar to the first one I had here, do you need me to describe that one again?
+* Y: No, that's OK, we have transcripts don't worry. Just the new one would be helpful.
+* A: Oh okay. Alright, so it was also on a beach, but all the Truman Show-y stuff was gone, and instead I was digging for something. I wasn't going crazy though, I was digging literally grain by grain. Oh my god, describing it, I've totally realised why I dreamt about it. Do you know Calvin and Hobbes?
+* Y: Of course! I used to be super jealous of Calvin. 
+* A: Me too. You know that one comic where he says he was counting rocks or something, and the dream was so boring it woke him up? I was thinking about that yesterday for some reason, maybe because of my beach dream. Dreams influencing dreams, sorry if this is messing with your data.
+* Y: No, no, it's alright, dreams aren't exactly a conscious decision. That's really helpful, thank you. Is there anything else you wanted to share?
+* A: That's all I think, see you tomorrow.
+* Y: Bye.
+
+#### Participant B
+
+* Y: Hello B.
+* B: Hey, morning.
+* Y: Did you sleep well?
+* B: Yeah, thank you. It's a little odd knowing other people are dreaming in rooms around me, almost makes it feel like a communal experience y'know? 
+* Y: Sure. Did you have any dreams?
+* B: I had a snippet?
+* Y: Of a dream?
+* B: Yeah, like a freeze-frame or a Polaroid picture. It's a bit of a weird one. You know hundreds and thousands? Those little colourful things for cakes and things?
+* Y: Sure, sugar strands.
+* B: Exactly, little sugary things. So I saw a picture of a handful of those falling onto this giant tub of ice cream. Maybe I was just hungry or something, but when I say giant tub, I mean *giant*. The size of a swimming pool, and all of it had hundreds and thousands falling onto it.
+* Y: And it was just a single image, nothing happened?
+* B: Yup.
+* Y: Alright, that's helpful thanks. Anything else you wanted to add?
+* B: No, thanks for your time.
+* Y: You too.
+
+#### Participant C
+
+#### Participant D
+
+#### Research Notes
+
+
 
 ### Wednesday
 
-* No A & B correlation, none with C & D
+* No A & B correlation, none with C & D. B alignment with D.
 
 ### Thursday
 
@@ -161,11 +203,11 @@ Please note that the researcher notes at the end of each day's interviews are in
 
 ### Friday
 
-* A & B stay aligned, C & D zero alignment (besides subtexts)
+* A & B stay aligned, D also falls into line.
 
 ### Saturday
 
-* A & B lose alignment, A & D somewhat alignment
+* A & B lose some alignment, B & D keep it
 
 ### Sunday
 

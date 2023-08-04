@@ -5,7 +5,6 @@ description: My probably pretty awful first steps into writing short-form fictio
 accent_colour: "#111b6d"
 
 # Optional native feature customisation (delete to turn off)
-table_of_contents_header: "Jump to:"
 post_end_promo: <i><b>Enjoyed this? You might like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", my weekly newsletter of articles & found media.</b></i>
 google_analytics: G-12SZ5125VR
 

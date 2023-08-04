@@ -1,5 +1,5 @@
 # Basic site setup
-remote_theme: JakeSteam/minimaJake@1.0.6
+remote_theme: JakeSteam/minimaJake@1.0.7
 title: Jake Lee Fiction
 description: My probably pretty awful first steps into writing short-form fiction!
 accent_colour: "#111b6d"
@@ -7,6 +7,7 @@ accent_colour: "#111b6d"
 # Optional native feature customisation (delete to turn off)
 post_end_promo: <i><b>Enjoyed this? You might like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", my weekly newsletter of articles & found media.</b></i>
 google_analytics: G-12SZ5125VR
+replace_read_time_with_word_count: true
 
 # Third party feature customisation (delete to turn off)
 giscus_repo: JakeSteam/blog-fiction

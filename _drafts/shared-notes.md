@@ -29,7 +29,7 @@ Y: Empathy. These are humans we're experimenting on, this really isn't ethical.
 
 ## Pacing 
 
-* Week 1: Typical reports, alignment
+* Week 1: Typical reports, alignment, subtext is key
 * Week 2: Shared symptoms, the dark man. He is here. He is impacting. Candidates request higher doses?
 * Week 3: Candidates begin dropping out due to the fear, we keep one of the couple and one of the remaining.
 * Week 4: The possessions begin. Changes in personality, in sleep habits, in the world. The dreams have monologues with speeches about how "he" is the basis of humankind, how this is not what he intended, how it is all wrong. The researcher succumbs. Too much exposure is fatal. Final notes aren't entirely sane.
@@ -37,12 +37,11 @@ Y: Empathy. These are humans we're experimenting on, this really isn't ethical.
 ## Constraints
 
 * No physical descriptions (of physical characters)
-* No informal language, except in quotes
 
 ## Misc ideas
 
-* X sees the alignment as just responses to inputs. The subjects are turing complete, inputs (chemical / audio / conversation), therefore similar outputs is expected. 
-* Y sees danger, that this is human experimentation. What about the Japanese and Nazi experiments? Well, these are voluntary. But what about drug addiction? Do no harm?
+* There needs to be another layer of twist, something hinted from the start. Chekov's gun. 
+
 
 Correct formatting can be find & replaced later:
-<br>*X*: Hello
+> **X**: Hello

@@ -178,7 +178,7 @@ Please note that the researcher notes at the end of each day's interviews are in
 * **Y**: Of a dream?
 * **B**: Yeah, like a freeze-frame or a Polaroid picture. It's a bit of a weird one. You know hundreds and thousands? Those little colourful things for cakes and things?
 * **Y**: Sure, sugar strands.
-* **B**: Exactly, little sugary things. So I saw a picture of a handful of those falling onto this giant tub of ice cream. Maybe I was just hungry or something, but when I say giant tub, I mean *giant*. The size of a swimming pool, and all of it had hundreds and thousands falling onto it.
+* **B**: Exactly, little sugary things. So I saw a picture of a handful of those falling onto this giant tub of vanilla ice cream. Maybe I was just hungry or something, but when I say giant tub, I mean *giant*. The size of a swimming pool, and all of it had hundreds and thousands falling onto it.
 * **Y**: And it was just a single image, nothing happened?
 * **B**: Yup.
 * **Y**: Alright, that's helpful thanks. Anything else you wanted to add?
@@ -187,27 +187,95 @@ Please note that the researcher notes at the end of each day's interviews are in
 
 #### Participant C
 
+**Y**: Hello C.
+**C**: Hello.
+**Y**: How did you sleep?
+**C**: Not very well, I did have a dream though.
+**Y**: Please tell me about it.
+**C**: Okay, I was trying to fill these gaps in a kind of material. Well, not material, you know those gravity simulator machines you sometimes see at museums? With a hole in the middle, then you roll a ball and it orbits the hole? It was like that, with multiple holes, except I was trying to fill in the gaps but things obviously kept just falling through. I remember panicking, for some reason it was very important that I filled the gaps.
+**Y**: That's really good, thank you.
+**C**: Does it mean anything?
+**Y**: I can't say at the moment, sorry.
+**C**: OK. Speak tomorrow.
+
 #### Participant D
 
 #### Research Notes
 
-
+X: So what do you think? Anything happening yet?
+Y: It's been 2 nights.
+X: Sure, but the drug guys said it might have an immediate impact. Some of them seemed to talk a lot more today than yesterday, that could be a symptom.
+Y: It isn't an expected symptom.
+X: No, but this is fact finding, we don't know what we'll find. Maybe they just like you more. I saw the **A** transcript, that was barely a researcher / student conversation, that's good, you should take advantage of-
+Y: Take advantage of them?
+X: Take advantage of their openness. Why are you jumping to conclusions, we're on the same side?
+Y: There are sides? This study is a collaborative effort.
+X: Of course. It's a figure of speech.
+Y: Okay. Did you notice A & B's dreams?
+X: Uhhhh yeah, ice creams and beaches, right?
+Y: That was part of it. Look at the transcripts.
+X: I did, they're just neurotypical dreams.
+Y: Nothing in common? No relation between the grains of sand and the ice cream topping? Or perhaps the colour of a beach and the colour of vanilla ice cream?
+X: Okay, I didn't see that. Nice catch. Could be the first symptom.
+Y: I'm not saying that, our sample size is basically zero, it probably doesn't mean anything.
+X: No, sure, but it's a start. Keep an eye on A & B tomorrow.
+Y: Of course.
 
 ### Wednesday
 
 * No A & B correlation, none with C & D. B alignment with D.
 
+#### Participant A
+
+#### Participant B
+
+#### Participant C
+
+#### Participant D
+
+#### Research Notes
+
 ### Thursday
 
 * A & B dreams aligned, C & D zero alignment still 
+
+#### Participant A
+
+#### Participant B
+
+#### Participant C
+
+#### Participant D
+
+#### Research Notes
 
 ### Friday
 
 * A & B stay aligned, D also falls into line.
 
+#### Participant A
+
+#### Participant B
+
+#### Participant C
+
+#### Participant D
+
+#### Research Notes
+
 ### Saturday
 
 * A & B lose some alignment, B & D keep it
+
+#### Participant A
+
+#### Participant B
+
+#### Participant C
+
+#### Participant D
+
+#### Research Notes
 
 ### Sunday
 
@@ -216,3 +284,75 @@ Please note that the researcher notes at the end of each day's interviews are in
 ## Week 2
 
 ### Monday
+
+* A & B & D strongly aligned, C partially aligned
+* Tiniest hint of something in A & B & D overlap.
+
+### Tuesday
+
+* A & B & C & D aligned, there is clear overlap.
+* Researchers getting v excited
+
+### Wednesday
+
+* A & Y getting close
+* A & B & C & D aligned, C is unsettled.
+
+### Thursday
+
+* A & B & D aligned, C slightly misaligned
+* ABCD seeing something shared.
+
+### Friday
+
+* A & B & D closer aligned, C further misaligned.
+* C has been intentionally covering up audio to escape.
+* A & B & D drug dosage increased upon request from one.
+
+### Saturday
+
+* A & B & C & D aligned
+* All have shared vision of dark shape
+
+### Sunday
+
+* Researcher discussion
+* X sees the alignment as just responses to inputs. The subjects are turing complete, inputs (chemical / audio / conversation), therefore similar outputs is expected. 
+* Y sees danger, that this is human experimentation. What about the Japanese and Nazi experiments? Well, these are voluntary. But what about drug addiction? Do no harm?
+
+## Week 3
+
+### Monday
+
+* A&B relationship issues, A&Y clearly closer, as well as B&D mentioning each other
+* ABCD alignment still wrong, C is clearly more sinister.
+
+### Tuesday
+
+* Discover C hasn't been taken the drugs, but is still experiencing the visions
+* ABCD sense the sinister presence stronger, begin interaction
+
+### Wednesday
+
+* No visions. Calm before the storm.
+
+### Thursday
+
+* Direct communication. Words. Quotes. 
+* D drops out, this was meant to improve mental health.
+
+### Friday
+
+* B upset D is gone, feigns it as concern over self. Challenged about continuing, unusually insistent.
+* ABC getting very aligned, multiple ask further dosage increase.
+
+### Saturday
+
+* X&Y discover telepathic comms between ABC (probably by both running interviews at same time)
+* 
+
+### Sunday
+
+* Y advocating ending study immediately. 
+* X discussed withdrawal symptoms, 1 week left, push to end.
+* A little moral / philosophical discussion

@@ -1,5 +1,5 @@
 ---
-title: Shared
+title: Zzz
 author: Jake Lee
 layout: post
 image: /assets/images/2023/
@@ -348,11 +348,48 @@ Y: Of course.
 
 ### Saturday
 
+* ABC all seemingly independently share their hidden history of depression.
 * X&Y discover telepathic comms between ABC (probably by both running interviews at same time)
-* 
+* The presence is named: Z. 
+* Asked WHY telling it now, no clear answer.
 
 ### Sunday
 
 * Y advocating ending study immediately. 
 * X discussed withdrawal symptoms, 1 week left, push to end.
 * A little moral / philosophical discussion
+
+## Week 4
+
+### Monday
+
+* ABC dreams basically identical. All want to "pass on messages" from Z, just short snippets.
+
+### Tuesday
+
+* Information about what ABC are doing outside of the study (nothing)
+* D has gone to press as "whistleblower", nobody has any contact.
+* Slight overlap of conversation.
+
+### Wednesday
+
+* X&Y become weird, conversations are now merging together.
+* 
+
+### Thursday
+
+* Conversations basically a single stream of consciousness now, no longer "themselves"
+* Speaking as Z, the monologue has begun.
+* ABCXY are barely independent entities.
+
+### Friday
+
+* Initially rejected candidates are suddenly brought back in, all seem weirdly compliant.
+
+### Saturday
+
+* Mass murder suicide. Hundreds of thousands.
+
+### Sunday
+
+* Closing notes from independent research body overseeing. 

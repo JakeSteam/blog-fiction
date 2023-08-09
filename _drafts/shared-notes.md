@@ -40,7 +40,9 @@ Y: Empathy. These are humans we're experimenting on, this really isn't ethical.
 
 ## Misc ideas
 
+* Anonymise locations / companies / universities.
 * There needs to be another layer of twist, something hinted from the start. Chekov's gun. 
+* "Catching Z's"? Too corny?
 
 
 Correct formatting can be find & replaced later:

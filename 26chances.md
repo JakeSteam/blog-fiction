@@ -48,14 +48,13 @@ Pop-star / social media icon "stan" account dives deep into obsession, forming a
 
 Rise of an unsavoury political party (cult?), as told through newspaper cuttings over time. Whilst left and right wing papers may originally differ, these opinions will converge as the party outstrips both. 
 
-### **S**hared
-
-Recurring themes within multiple person's dreams, told via medical reports of behaviour during sleep & reported experience. There's a few growing differences, with behaviour during sleep becoming more and more aligned. Perhaps the individuals in the study have something in common.
-
+### S
 ### T
 ### U
 ### V
 ### W
 ### X
 ### Y
-### Z
+### *Z*zz
+
+Recurring themes within multiple person's dreams, told via medical reports of behaviour during sleep & reported experience. There's a few growing differences, with behaviour during sleep becoming more and more aligned. Perhaps the individuals in the study have something in common.

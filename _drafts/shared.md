@@ -12,7 +12,7 @@ Epidextrin is the latest meditative sleep aid from Eleng Medicines. Research sho
 
 ## Methodology
 
-This 4-week study study is conducted by researchers the University of Surrey, and receives partial funding from Eleng Medicines and Xhion Industries. 
+This 4-week study is conducted by researchers from a major international university, and receives partial funding from Eleng Medicines and Xhion Industries. 
 
 The study aims to discover the effects of Epidextrin upon sleep quality and quantity, with special focus paid to the dreams participants encounter. The overall goal is to determine whether Epidextrin is suitable for prescription as a sleep aid, and whether it is suitable for prescription as a recreational dream enhancer.
 

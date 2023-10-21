@@ -1,11 +1,11 @@
 # Basic site setup
-remote_theme: JakeSteam/minimaJake@1.0.8
-title: Jake Lee Fiction
-description: My probably pretty awful first steps into writing short-form fiction!
-accent_colour: "#111b6d"
+remote_theme: JakeSteam/minimaJake@1.0.10
+title: Jake Lee Creative Writing
+description: Weird, rambly fiction and non-fiction. No guarantees it'll even make sense to me.
+accent_colour: "#ad33a9"
 
 # Optional native feature customisation (delete to turn off)
-post_end_promo: <i><b>Enjoyed this? You might like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", my weekly newsletter of articles & found media.</b></i>
+post_end_promo: <i><b>Enjoyed this? You might like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", my weeklyish newsletter of articles & found media.</b></i>
 google_analytics: G-12SZ5125VR
 replace_read_time_with_word_count: true
 
@@ -30,7 +30,7 @@ minima:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/Jake-Lee" }
     - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/608312/Jake-Lee" }
     - { platform: twitter, user_url: "https://www.twitter.com/JakeLeeUK" }
-    - { platform: email, user_url: "mailto:fiction@jakelee.co.uk", user_title: "fiction@jakelee.co.uk" }
+    - { platform: email, user_url: "mailto:creativewriting@jakelee.co.uk", user_title: "fiction@jakelee.co.uk" }
     - { platform: code, user_url: "https://github.com/JakeSteam/blog-fiction", user_title: "JakeSteam/blog-fiction" }
     - { platform: rss, user_url: "/feed.xml", user_title: "RSS Feed" }
     - { platform: substack, user_url: "https://jakeweeklee.substack.com/", user_title: "Jake Week Lee" }

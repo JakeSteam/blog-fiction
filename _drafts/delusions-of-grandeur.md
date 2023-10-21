@@ -1,0 +1,74 @@
+---
+title: Delusions of grandeur, how to not die
+author: Jake Lee
+layout: post
+image: /assets/images/2023/
+tags:
+    - Non-fiction
+---
+
+Fragments of something vaguely related to self-importance, productivity, permeance, and immortality.
+
+## You're not the one
+
+Why are you the main character? There's a few billion out there, why would you be in the miniscule fraction of a % that is remembered a generation later?
+
+You probably know your parents' names. Maybe even some of your grandparents. Beyond that? Gone, evaporated, eroded, crumbled. Things online might "live forever", but so do your ancestors' birth / census records. If the information isn't accessible, it might as well not exist. 
+
+Hemingway said:
+
+> Every man has two deaths, when he is buried in the ground and the last time someone says his name. In some ways men can be immortal
+
+He was wrong. Hemingway died 62 years ago, and was undoubtedly in the top 0.001% of people whose name might survive a few generations. He has now survived 1 extra lifetime through immense luck, skill, and creativity. How likely is 10?
+
+## We're not the one
+
+A better way of looking at it is considering how many people from 10 years ago you can name. Likely everyone you know, plus all celebrities, the number will easily be a few hundred. What about 100 years ago? We're already likely into the realm of no personal connections, a few tens of authors, creators, and politicians. 1000? We are likely down to zero, unless you are exceptionally into your history.
+
+Your country likely did not exist a few thousand years ago. Your local geography would be unrecognisable. Why would the current construction last? If your family, city, country disappears, where will your permanent records go?
+
+## Even if you were the one, you're not
+
+Forget about the big picture. You cannot change that. 
+
+You've got 50ish productive years to do something, if we're generous and you're doing shit from 15 to 65. Start off in a low-income / troubled / bad influence family? Dedicate at least 5 of those years, likely all 50, to "catching up", since the majority of those around you will have support, advice, and connections you can never have. Start off anything other than a straight white male? Again take at least 5 years, you will face at best unfair conscious and subconscious decisions. Born in an area with high crime, poor infrastructure, corruption? The odds are unbelievably against you.
+
+Fine, you bet on 0 at roulette and won. You're 15, genetically lucked out, family are whatever perfect is, you even live in a stable, wealthy country. You are the 1 in 1000 that even has a chance of something impressive. What the fuck are you gonna do with all that potential?
+
+Well, you're gonna blow it. You're gonna discover alcohol. You're gonna discover a bad all-encompassing relationship. You're gonna fall into the bottomless black pit of nihilism. You need to do these things to understand human nature, the good, evil, forgetful, and chaotic mess. The good news? You can do all of these, waste *decades*, and still come back. Time is the only asset that matters, you're never out until you're out.
+
+There are infinite ways to not be the one. Find a thousand needles in a million haystacks, be unbelievably lucky and you will end up a vaguely well-adjusted adult, with a solid education, financial stability. Throw in an ideal life partner too, why not.
+
+What the fuck now?
+
+## What's the plan?
+
+How do you achieve your immortality? The names you remember from previous generations, they were almost exclusively the extremely wealthy, stable, and lucky. There are a hell of a lot more of those now, even obscenities like billionaires. 
+
+You cannot spend your way to glory. There will be no burial pyramid, no giant bronze statue. 
+
+You cannot exercise your way to glory. A lifetime in the gym will earn you respect of those in the gym. A self-congratulating circle of hype. You are one cancer diagnosis away from crumbling.
+
+You cannot fight your way to glory. You can absolutely kill and martyr for your cause, and your name will persist a year or two. Your blood will be drowned by the blood of the next generation. 
+
+What's left?
+
+## Two paths
+
+There are escapes. No, not giving up, that's not valid. Two valid escapes from this paralysis.
+
+You can create, or you can enjoy.
+
+## Create
+
+Write, draw, sculpt, teach, build, design. 
+
+These things will outlive you, and if you do them for the right reasons might even make a few generations think of you positively. 
+
+Write a helpful article, design a beautiful database schema, share your bizarre wall painting. Yep, they're probably shit, but so is everyone else's. They're all infinitely better than the ones that are never shared.
+
+## Enjoy
+
+This isn't giving up. This is giving in. If you enjoy your time here, it doesn't matter what happens after. Spend your money, buy the offered upgrade, try the unusual food, book the impulsive ticket. Live.
+
+I have no idea how to do this, it is not an option I have available. 

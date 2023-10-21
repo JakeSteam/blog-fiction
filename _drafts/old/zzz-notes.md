@@ -1,3 +1,12 @@
+---
+title: Zzz notes
+author: Jake Lee
+layout: post
+image: /assets/images/2023/
+tags:
+    - 
+---
+
 ## Participants
 
 A: Office worker 31. Follows authority, likes process, logic, science.

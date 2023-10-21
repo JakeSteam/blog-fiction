@@ -1,5 +1,5 @@
 ---
-title: Delusions of grandeur, how to not die
+title: Delusions of grandeur, or how to not die
 author: Jake Lee
 layout: post
 image: /assets/images/2023/
@@ -19,7 +19,7 @@ Hemingway said:
 
 > Every man has two deaths, when he is buried in the ground and the last time someone says his name. In some ways men can be immortal
 
-He was wrong. Hemingway died 62 years ago, and was undoubtedly in the top 0.001% of people whose name might survive a few generations. He has now survived 1 extra lifetime through immense luck, skill, and creativity. How likely is 10?
+He was wrong. Hemingway died 62 years ago, and was undoubtedly in the top 0.001% of people whose name might survive a few generations. He has now survived 1 extra lifetime through immense luck, skill, and creativity. How likely is 10 more lifetimes?
 
 ## We're not the one
 
@@ -33,7 +33,7 @@ Forget about the big picture. You cannot change that.
 
 You've got 50ish productive years to do something, if we're generous and you're doing shit from 15 to 65. Start off in a low-income / troubled / bad influence family? Dedicate at least 5 of those years, likely all 50, to "catching up", since the majority of those around you will have support, advice, and connections you can never have. Start off anything other than a straight white male? Again take at least 5 years, you will face at best unfair conscious and subconscious decisions. Born in an area with high crime, poor infrastructure, corruption? The odds are unbelievably against you.
 
-Fine, you bet on 0 at roulette and won. You're 15, genetically lucked out, family are whatever perfect is, you even live in a stable, wealthy country. You are the 1 in 1000 that even has a chance of something impressive. What the fuck are you gonna do with all that potential?
+Fine, you bet it all on 0 at roulette and won. 100 times. You're 15, genetically lucked out, family are whatever perfect is, you even live in a stable, wealthy country. You are the 1 in 1000 that even has a chance of something impressive. What the fuck are you gonna do with all that potential?
 
 Well, you're gonna blow it. You're gonna discover alcohol. You're gonna discover a bad all-encompassing relationship. You're gonna fall into the bottomless black pit of nihilism. You need to do these things to understand human nature, the good, evil, forgetful, and chaotic mess. The good news? You can do all of these, waste *decades*, and still come back. Time is the only asset that matters, you're never out until you're out.
 
@@ -59,7 +59,7 @@ There are escapes. No, not giving up, that's not valid. Two valid escapes from t
 
 You can create, or you can enjoy.
 
-## Create
+### Create
 
 Write, draw, sculpt, teach, build, design. 
 
@@ -67,8 +67,36 @@ These things will outlive you, and if you do them for the right reasons might ev
 
 Write a helpful article, design a beautiful database schema, share your bizarre wall painting. Yep, they're probably shit, but so is everyone else's. They're all infinitely better than the ones that are never shared.
 
-## Enjoy
+Quantity or quality? Why not both? If your magnum opus never gets finished, what is the point. Start small, build up. Eventually you'll make things you don't hate a week later. Remember them, show them to people whose opinion you care about. They'll get better.
+
+### Enjoy
 
 This isn't giving up. This is giving in. If you enjoy your time here, it doesn't matter what happens after. Spend your money, buy the offered upgrade, try the unusual food, book the impulsive ticket. Live.
 
 I have no idea how to do this, it is not an option I have available. 
+
+## Or, don't
+
+Or just meander in the middle like almost everyone else with potential. Drink too much, eat too much, regret too much. Work too much to enjoy, work too little to create.
+
+If you have an idea, either have the self-awareness to admit you are soft and slacking, or put in the work to:
+1. Shape the vague idea into something valid
+2. Challenge it before it is born, and be prepared to abort it
+3. Plan how this is going to go
+4. Execute
+
+Notice the casual "if you have an idea". That's the easy bit right? Ideas are cheap, execution is hard?
+
+Cool, so what's the idea. What's your world changing idea that will grant you immortality and the love and respect of every human on earth. Or even let you earn a brief living?
+
+## What's the big idea?
+
+I dunno. Sell some houses or jobs. Or groceries. Work for someone else, get paid, exist until pension kicks in.
+
+Maybe you'll have an idea, maybe you'll grind evenings and weekends for it. I really hope it's a good one, otherwise fuck, that had a high opportunity cost. It's often said you should "learn" or "earn" in a job, ideally both. The same applies to whatever your idea is.
+
+If your startup fails but you now know infinitely more about marketing? That's not a failure, you're ready for round 2. Most successful people have a graveyard full of failed, idiotic, doomed ideas. Your first few are probably gonna be the same. Maybe not.
+
+## Conclusion
+
+Life is impossible. Try not to hate it too much, and try to balance creating and consuming. Good luck.

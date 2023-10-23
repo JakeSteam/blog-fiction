@@ -2,7 +2,7 @@
 title: Delusions of grandeur, or how to not die
 author: Jake Lee
 layout: post
-image: /assets/images/2023/
+image: /assets/images/2023/hemingway.png
 tags:
     - Non-fiction
 ---
@@ -15,7 +15,7 @@ Why are you the main character? There's a few billion out there, why would you b
 
 You probably know your parents' names. Maybe even some of your grandparents. Beyond that? Gone, evaporated, eroded, crumbled. Things online might "live forever", but so do your ancestors' birth / census records. If the information isn't accessible, it might as well not exist. 
 
-Hemingway said:
+Ernest Hemingway said:
 
 > Every man has two deaths, when he is buried in the ground and the last time someone says his name. In some ways men can be immortal
 
@@ -102,3 +102,7 @@ If your startup fails but you now know infinitely more about marketing? That's n
 ## Conclusion
 
 Life is impossible, contentment is harder. Try not to hate it too much, and try to balance creating and consuming. Good luck, you only get one shot.
+
+---
+
+*Note: [The header image](https://commons.wikimedia.org/wiki/File:Ernest_Hemingway_at_the_Finca_Vigia,_Cuba_-_NARA_-_192663.jpg) is Ernest Hemingway posing with his favourite shotgun at his home in Cuba, a "double-barreled shotgun that he had used so often it might have been a friend". He would later use this to commit suicide.*

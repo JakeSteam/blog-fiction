@@ -7,7 +7,7 @@ tags:
     - Non-fiction
 ---
 
-Fragments of something vaguely related to self-importance, productivity, permeance, and immortality.
+Fragments of something vaguely related to self-importance, productivity, purpose, and immortality.
 
 ## You're not the one
 
@@ -37,13 +37,13 @@ Fine, you bet it all on 0 at roulette and won. 100 times. You're 15, genetically
 
 Well, you're gonna blow it. You're gonna discover alcohol. You're gonna discover a bad all-encompassing relationship. You're gonna fall into the bottomless black pit of nihilism. You need to do these things to understand human nature, the good, evil, forgetful, and chaotic mess. The good news? You can do all of these, waste *decades*, and still come back. Time is the only asset that matters, you're never out until you're out.
 
-There are infinite ways to not be the one. Find a thousand needles in a million haystacks, be unbelievably lucky and you will end up a vaguely well-adjusted adult, with a solid education, financial stability. Throw in an ideal life partner too, why not.
+There are infinite ways to not be the one. Find a thousand needles in a million haystacks, be unbelievably lucky and you will end up a vaguely well-adjusted adult, with a solid education, financial stability, and maybe even some morals. Throw in an ideal life partner too, why not.
 
 What the fuck now?
 
 ## What's the plan?
 
-How do you achieve your immortality? The names you remember from previous generations, they were almost exclusively the extremely wealthy, stable, and lucky. There are a hell of a lot more of those now, even obscenities like billionaires. 
+How do you achieve your immortality, or at least last beyond your own brief lifespan? The names you remember from previous generations, they were almost exclusively the extremely wealthy, stable, and lucky. There are a hell of a lot more of those now, even obscenities like billionaires. 
 
 You cannot spend your way to glory. There will be no burial pyramid, no giant bronze statue. 
 
@@ -69,11 +69,13 @@ Write a helpful article, design a beautiful database schema, share your bizarre 
 
 Quantity or quality? Why not both? If your magnum opus never gets finished, what is the point. Start small, build up. Eventually you'll make things you don't hate a week later. Remember them, show them to people whose opinion you care about. They'll get better.
 
+You might even be able to get paid for this thing, instead of grabbing creative intermissions between work and life.
+
 ### Enjoy
 
-This isn't giving up. This is giving in. If you enjoy your time here, it doesn't matter what happens after. Spend your money, buy the offered upgrade, try the unusual food, book the impulsive ticket. Live.
+This isn't giving up. This is giving in. If you enjoy your time here, it doesn't matter what happens after. Spend your money, buy the offered upgrade, try the unusual food, book the impulsive ticket, attend the niche event. Live.
 
-I have no idea how to do this, it is not an option I have available. 
+I have no idea how to do this, sorry. You probably already do.
 
 ## Or, don't
 
@@ -99,4 +101,4 @@ If your startup fails but you now know infinitely more about marketing? That's n
 
 ## Conclusion
 
-Life is impossible. Try not to hate it too much, and try to balance creating and consuming. Good luck.
+Life is impossible, contentment is harder. Try not to hate it too much, and try to balance creating and consuming. Good luck, you only get one shot.

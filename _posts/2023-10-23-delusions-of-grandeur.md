@@ -73,15 +73,15 @@ You might even be able to get paid for this thing, instead of grabbing creative 
 
 ### Enjoy
 
-This isn't giving up. This is giving in. If you enjoy your time here, it doesn't matter what happens after. Spend your money, buy the offered upgrade, try the unusual food, book the impulsive ticket, attend the niche event. Live.
+This isn't giving up. This is giving in. If you enjoy your time here, it doesn't matter what happens after. Spend your money, buy the offered upgrade, try the unusual food, book the impulsive ticket, attend the niche event. Live life.
 
-I have no idea how to do this, sorry. You probably already do.
+I have no idea how to do this, sorry. You probably already do, it's supposed to be natural.
 
 ## Or, don't
 
-Or just meander in the middle like almost everyone else with potential. Drink too much, eat too much, regret too much. Work too much to enjoy, work too little to create.
+Or just meander in the middle like almost everyone else with potential. Drink too much, eat too much, regret too much. Work too little to create, work too much to enjoy.
 
-If you have an idea, either have the self-awareness to admit you are soft and slacking, or put in the work to:
+If you have an idea, either have the self-awareness to admit you are soft and slacking, and this idea is pointless, or put in the work to:
 1. Shape the vague idea into something valid
 2. Challenge it before it is born, and be prepared to abort it
 3. Plan how this is going to go
@@ -93,7 +93,7 @@ Cool, so what's the idea. What's your world changing idea that will grant you im
 
 ## What's the big idea?
 
-I dunno. Sell some houses or jobs. Or groceries. Work for someone else, get paid, exist until pension kicks in.
+I dunno. Sell some houses or some insurance. Or groceries. Work for someone else, get paid, exist until pension kicks in.
 
 Maybe you'll have an idea, maybe you'll grind evenings and weekends for it. I really hope it's a good one, otherwise fuck, that had a high opportunity cost. It's often said you should "learn" or "earn" in a job, ideally both. The same applies to whatever your idea is.
 

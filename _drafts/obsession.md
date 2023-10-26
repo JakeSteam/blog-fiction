@@ -7,4 +7,4 @@ tags:
     - 
 ---
 
-Anti obsession. How can you only care about one thing, it replaces your personality 
+Anti obsession. How can you only care about one thing, it replaces your personality, you become a hollow shell.

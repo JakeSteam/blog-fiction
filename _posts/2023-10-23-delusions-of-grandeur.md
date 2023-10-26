@@ -5,6 +5,9 @@ layout: post
 image: /assets/images/2023/hemingway.png
 tags:
     - Non-fiction
+    - Purpose
+    - Ego
+    - Death
 ---
 
 Fragments of something vaguely related to self-importance, productivity, purpose, and immortality.

@@ -2,7 +2,7 @@
 title: "Moonshot: What if you set your goals too high, and achieve them?"
 author: Jake Lee
 layout: post
-image: /assets/images/2023/
+image: /assets/images/2023/moonshot.jpg
 tags:
     - Non-fiction
     - Ambition
@@ -10,7 +10,7 @@ tags:
     - Personal
 ---
 
-Fragments around goals, achieving them, luck, ambition, and the price of success.
+Fragments around goals, achieving them, luck, ambition, and one way to succeed.
 
 ## Goal setting
 
@@ -56,6 +56,10 @@ You can do it too, just relentlessly practice interviewing as much as you would 
 
 What happens when you achieve your "impossible" goal? Well, you've got to find another.
 
-I've got a few medium term goals (see ["Identity"](https://notes.jakelee.co.uk/identity.html)), but none of them are moonshots. Even the high-end ones around raising money for charity and earning a PhD aren't impossible, they just require work and focus.
+I've got a few medium term goals (see ["Identity"](https://notes.jakelee.co.uk/identity.html)), but none of them are moonshots. Even the high-end ones around raising money for charity and earning a PhD aren't impossible, they just require work and focus. Most of them are more likely to happen than not.
 
 Without this moonshot (similar to a [North Star](https://www.forbes.com/sites/forbesagencycouncil/2017/07/19/how-to-find-your-companys-north-star-metric/) in business), you're lost. Why get up in the morning? Why work? Why save? You need a purpose. Within 5 years anything is possible, you just need to work out what the goal is.
+
+I'm lucky enough to have way-too-big ideas pretty often, providing a motivator behind actions. Without this, I'm lost, and I can't imagine feeling that way by default.
+
+So what's the takeaway from this post? I'm not sure. Try and provide opportunities for good luck, have a purpose, try not to settle for mediocrity.

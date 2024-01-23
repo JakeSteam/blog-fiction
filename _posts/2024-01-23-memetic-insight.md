@@ -1,5 +1,5 @@
 ---
-title: "Memetic insight: how the government knows what you like"
+title: "Memetic insight: how the government tracks you via emojis"
 author: Jake Lee
 layout: post
 image: /assets/images/2024/forest.png
@@ -14,7 +14,7 @@ Fragments around how the government uses emoji variants to monitor social circle
 
 ## What emojis do you use?
 
-Emojis are not a new idea, they've been mainstream for a couple of decades by now. Whether it's a classic 🙂, a sarcastic 🆗, or a bland corporate 👍, they are a form social communication.
+Emojis are not a new idea, they've been mainstream for a couple of decades by now. Whether it's a classic 🙂, a sarcastic 🆗, or a bland corporate 👍, they are an established form of social communication.
 
 ## Who taught you emojish?
 
@@ -42,14 +42,18 @@ OK, maybe you don't actually use any actual emojis. Alright, you're so smart, yo
 
 Maybe you use Discord, where servers have plenty of customer emojis and stickers. Surely that's safe from analysing? Nope, you're even more vulnerable. By analysing how emoji packs degrade in quality and spread between servers, a network can be built up even without access to the server itself.
 
-Need an example? Perhaps you're in a large programming server, and end up using one of their programming meme emojis in a private chat you and a few friends have to discuss cheating on exams. Maybe one of your friends copies that emoji for another far smaller unrelated server. Maybe another friend does the same
+Need an example? Perhaps you're in a large programming server, and end up using one of their programming meme emojis in a private chat you and a few friends have to discuss cheating on exams. Maybe one of your friends copies that emoji for another far smaller unrelated server. Maybe another friend does the same.
 
 There's now a connection between the programming server and the unrelated small server, via a private message. Using timestamps of messages in public servers when these emojis were first used, a web of association can be built up. 
 
-With limited data, this will just show which servers have members in common. With more data? Your entire social circle can be mapped out, even if you've never interacted with them in a public server. Not so far now, huh.
+With limited data, this will just show which servers have members in common. With more data? Your entire social circle can be mapped out, even if you've never interacted with them in a public server. Not so smart now, huh?
 
 ## Emoji packs
 
 Lots of servers use emoji packs, like the [widespread "Joe" set](https://emoji.gg/emojis/joe). Ever notice how the original download sites for [popular image packs](https://www.daz3d.com/emotiguy) pretend to be such low quality? That's so you ignore any red flags along the way and the pack can spread easier.
 
 If you make a unique variant, you're doomed, as that can now be traced back if it ever gets into a public server, and you will be identified as patient zero. Any of your metadata embedded in the emoji will be traced back to you, even if you've never spoken in public.
+
+## The solution
+
+Don't use emojis. Only use words, and speak in the most generic, boring way possible to avoid any unique identifiers. Ever wondered why AIs have that bland, neutral style? To avoid adding noise to the emoji analysing agencies. Connect the dots.

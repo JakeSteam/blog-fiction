@@ -1,5 +1,5 @@
 # Basic site setup
-remote_theme: JakeSteam/minimaJake@1.0.11
+remote_theme: JakeSteam/minimaJake@1.0.13
 title: Jake Lee Fragments
 description: Weird, rambly fiction and non-fiction. No guarantees it'll even make sense to me.
 accent_colour: "#ad33a9"
@@ -24,7 +24,6 @@ network:
       colour: "#075e78",
     }
   - { name: Theme, url: "https://minima.jakelee.co.uk", colour: "#951A00" }
-  - { name: Cat Charity, url: "https://news.codecured.org", colour: "#111b6d" }
   - {
       name: Fragments,
       url: "https://fragments.jakelee.co.uk",

@@ -6,7 +6,7 @@ accent_colour: "#ad33a9"
 
 # Optional native feature customisation (delete to turn off)
 table_of_contents_header: "Chapter:"
-post_end_promo: <i><b>Enjoyed this? You might like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", my weeklyish newsletter of articles & found media.</b></i>
+post_end_promo: <i><b>Enjoyed this article? You'll like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", a newsletter of articles & online things!</b></i>
 google_analytics: G-12SZ5125VR
 replace_read_time_with_word_count: true
 
